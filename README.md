@@ -1,4 +1,4 @@
-# Particle Jekyll Theme
+## Particle Jekyll Theme
 
 ![](./particle.jpg)
 
